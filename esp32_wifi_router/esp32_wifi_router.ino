@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid     = "uPesy_AP";
-const char* password = "super_strong_password";
+const char* ssid     = "REPLACE_WITH_YOUR_SSID";
+const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 
 void setup()
 {
