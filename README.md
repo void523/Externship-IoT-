@@ -1,2 +1,2 @@
-# Extership-IoT-
+# Externship-IoT-
 Sample codes 
